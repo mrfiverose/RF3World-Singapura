@@ -159,7 +159,7 @@
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
-            <label for="whatsApp">WhatsApp ( Sertakan kod negara anda, eg: +65 1234 5678 )</label>
+            <label for="whatsApp">WhatsApp (Sertakan kod negara anda, eg: +65 1234 5678)</label>
             <input type="text" id="whatsApp" name="whatsApp" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" rows="4" required></textarea>
