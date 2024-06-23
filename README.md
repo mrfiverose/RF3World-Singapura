@@ -102,28 +102,26 @@
     <h1>Selamat datang ke Royalty Vitality</h1>
     <nav>
         <ul>
-            <li><a href="#home">Introduction</a></li>
-            <li><a href="#about">About Us</a></li>
-            <li><a href="#blog">Our Services</a></li>
-            <li><a href="#resources">Find us</a></li>
-            <li><a href="#contact">Contact Us</a></li>
+            <li><a href="#home">Pengenalan</a></li>
+            <li><a href="#about">Tentang Kami</a></li>
+            <li><a href="#blog">Perkhidmatan Kami</a></li>
+            <li><a href="#resources">Cari Kami</a></li>
+            <li><a href="#contact">Hubungi Kami</a></li>
         </ul>
     </nav>
 </header>
 
 <section id="home">
     <div class="content">
-        <h2>Introduction</h2>
-        <p>Many perceive conquering a mountain as daunting, yet the real feat lies in embracing our weaknesses and courageously taking the necessary actions. </p>
-        <p> - Banyak yang menganggap menakluki sebuah gunung sangat menakutkan, namun yang lebih mencabar ialah menerima kelemahan kita dan mengambil tindakan yang diperlukan dengan berani. </p>
+        <h2>Pengenalan</h2>
+        <p>Banyak yang menganggap menakluki sebuah gunung sangat menakutkan, namun yang lebih mencabar ialah menerima kelemahan kita dan mengambil tindakan yang diperlukan dengan berani. </p>
     </div>
 </section>
 
 <section id="about">
     <div class="content">
-        <h2>About Us</h2>
-        <p>Many times, we feel helpless due to health issues, financial commitments, unforeseen circumstances, and the unpredictability of life. Royalty Vitality was formed to provide opportunities for self-improvement and empowerment when life happens. Our mission is to support individuals in navigating these challenges and to help them achieve a sense of stability and vitality.</p>
-        <p> - Sering kali, kita merasa tidak berdaya disebabkan masalah kesihatan, komitmen kewangan, keadaan yang tidak dijangka, dan ketidakpastian hidup. Royalty Vitality ditubuhkan untuk menyediakan peluang bagi peningkatan diri dan pemberdayaan apabila hidup berubah. Misi kami adalah untuk menyokong individu dalam mengatasi cabaran ini dan membantu mereka mencapai kestabilan dan vitaliti.</p>
+        <h2>Tentang Kami</h2>
+        <p>Sering kali, kita merasa tidak berdaya disebabkan masalah kesihatan, komitmen kewangan, keadaan yang tidak dijangka, dan ketidakpastian hidup. Royalty Vitality ditubuhkan untuk menyediakan peluang bagi peningkatan diri dan pemberdayaan apabila hidup berubah. Misi kami adalah untuk menyokong individu dalam mengatasi cabaran ini dan membantu mereka mencapai kestabilan dan vitaliti.</p>
         <div class="video-wrapper">
             <iframe width="800" height="450" src="https://www.youtube.com/embed/Hy6j9o8FYb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
@@ -132,35 +130,30 @@
 
 <section id="services">
     <div class="content">
-        <h2>Services</h2>
-        <p>Health Support Programs: Tailored plans to enhance physical and mental well-being.</p>
-        <p>Financial Guidance: Expert advice to manage and improve your financial health.</p>
-        <p>Life Coaching: Personalized coaching to help you navigate life's challenges.</p>
-        <p>Community Support: A network of like-minded individuals offering mutual support and encouragement.</p>
-        <p>  </p>
-        <p> - Program Sokongan Kesihatan: Pelan khusus untuk meningkatkan kesejahteraan fizikal dan mental.</p>
-        <p> - Panduan Kewangan: Nasihat pakar untuk mengurus dan memperbaiki kesihatan kewangan anda.</p>
-        <p> - Bimbingan Hidup: Bimbingan peribadi untuk membantu anda mengharungi cabaran hidup.</p>
-        <p> - Sokongan Komuniti: Rangkaian individu yang berpikiran sama menawarkan sokongan dan dorongan bersama.</p>
+        <h2>Perkhidmatan Kami</h2>
+        <p>Program Sokongan Kesihatan: Pelan khusus untuk meningkatkan kesejahteraan fizikal dan mental.</p>
+        <p> Panduan Kewangan: Nasihat pakar untuk mengurus dan memperbaiki kesihatan kewangan anda.</p>
+        <p>Bimbingan Hidup: Bimbingan peribadi untuk membantu anda mengharungi cabaran hidup.</p>
+        <p>Sokongan Komuniti: Rangkaian individu yang berpikiran sama menawarkan sokongan dan dorongan bersama.</p>
         <!-- Blog posts will go here -->
     </div>
 </section>
 
 <section id="resources">
     <div class="content">
-        <h2>Find Us</h2>
+        <h2>Cari Kami</h2>
         <div class="map-wrapper">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5665570290416!2d103.80240337412135!3d1.4352697612970964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13004b2d554b%3A0x78829c3624d9246d!2sPrimz%20BizHub!5e0!3m2!1sen!2ssg!4v1718863480362!5m2!1sen!2ssg" 
                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-        <p>Our HP: +65 8774 1661.</p>
+        <p>HP Kami: +65 8774 1661.</p>
         <!-- Resource links will go here -->
     </div>
 </section>
 
 <section id="contact">
     <div class="content">
-        <h2>Whether you have questions, need more information, or are ready to join, reach out to us. We'd love to hear from you!</h2>
+        <h2>Sama ada anda mempunyai soalan, memerlukan maklumat lanjut, atau bersedia untuk menyertai, hubungi kami. Kami ingin mendengar daripada anda!</h2>
         <form action="https://formspree.io/f/xvoeeqzv" method="POST" class="contact-form">
             <label for="name">Name</label>
             <input type="text" id="name" name="name" required>
